@@ -19,6 +19,8 @@ focusing on clarity, performance, and real-world signal processing.
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=000000" />
 </p>
 
+## Fun facts
+
 <img
   align="right"
   src="projectAssets/image_01.png"
@@ -28,19 +30,20 @@ focusing on clarity, performance, and real-world signal processing.
 
 
 
-<h2>🎙️ Interests</h2>
+<h3>🎙️ Interests</h3>
 
-- Vocal signal processing & analysis  
-- Audio engineering workflows  
-- DSP + ML-assisted sound modeling  
-- High-performance & low-latency systems  
+- ᴠᴏᴄᴀʟᴏɪᴅ ᴛᴏᴏʟs ᴀɴᴅ ᴄʀᴇᴀᴛɪᴠᴇ ᴛᴇᴄʜɴᴏʟᴏɢʏ
+- ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴡɪᴛʜ ᴄᴏᴍᴘᴜᴛᴇʀ ᴠɪsɪᴏɴ ᴍᴏᴅᴇʟs
+- ʜɪɢʜ-ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ & ʟᴏᴡ-ʟᴀᴛᴇɴᴄʏ sʏsᴛᴇᴍs
+- ʜᴀᴛsᴜɴᴇ ᴍɪᴋᴜ ʟᴏᴠᴇʀ
 
 
 
-<h2>📫 Contact</h2>
 
-- GitHub → **https://github.com/YYDongRo**
-- Email → **roydong5@gmail.com**
+<h3>📫 Contact</h3>
+
+- 𝓖𝓲𝓽𝓗𝓾𝓫 → **https://github.com/YYDongRo**
+- 𝓔𝓶𝓪𝓲𝓵 → **roydong5@gmail.com**
 
 
 
