@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm **Roy**
 **GitHub:** `YYDongRo`
 
-I work across **systems programming**, **web engineering**, and **vocal/audio engineering**,  
-focusing on clarity, performance, and real-world signal processing.
+ɪ ᴀᴍ ᴀ ᴜɴɪᴠᴇʀsɪᴛʏ sᴛᴜᴅᴇɴᴛ ᴡʜᴏ ᴡᴏʀᴋ ᴀᴄʀᴏss **sʏsᴛᴇᴍs ᴘʀᴏɢʀᴀᴍᴍɪɴɢ**, **ᴡᴇʙ ᴇɴɢɪɴᴇᴇʀɪɴɢ**, ᴀɴᴅ **ᴠᴏᴄᴀʟ/ᴀᴜᴅɪᴏ ᴇɴɢɪɴᴇᴇʀɪɴɢ**,
+ғᴏᴄᴜsɪɴɢ ᴏɴ ᴄʟᴀʀɪᴛʏ, ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ, ᴀɴᴅ ʀᴇᴀʟ-ᴡᴏʀʟᴅ sɪɢɴᴀʟ ᴘʀᴏᴄᴇssɪɴɢ.
+
 
 
 
