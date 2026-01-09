@@ -19,6 +19,13 @@ focusing on clarity, performance, and real-world signal processing.
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=000000" />
 </p>
 
+<img
+  align="right"
+  src="projectAssets/image_01.jpg"
+  width="260"
+  alt="Hatsune Miku peeking from the side"
+/>
+
 
 
 ## 🎙️ Interests
