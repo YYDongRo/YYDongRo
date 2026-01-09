@@ -28,7 +28,7 @@ focusing on clarity, performance, and real-world signal processing.
 
 
 
-## 🎙️ Interests
+<h2>🎙️ Interests</h2>
 
 - Vocal signal processing & analysis  
 - Audio engineering workflows  
@@ -37,7 +37,7 @@ focusing on clarity, performance, and real-world signal processing.
 
 
 
-## 📫 Contact
+<h2>📫 Contact</h2>
 
 - GitHub → **https://github.com/YYDongRo**
 - Email → **roydong5@gmail.com**
