@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YYDongRo&style=flat-square&color=5DADE2" alt="profile views" />
+</p>
+
 ## 👋 Hi, I'm **Roy**
 **GitHub:** `YYDongRo`
 
@@ -45,10 +49,9 @@ focusing on clarity, performance, and real-world signal processing.
 - 𝓖𝓲𝓽𝓗𝓾𝓫 → **https://github.com/YYDongRo**
 - 𝓔𝓶𝓪𝓲𝓵 → **roydong5@gmail.com**
 
+<br clear="right"/>
+<div style="height: 10px;"></div>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YYDongRo&style=flat-square&color=5DADE2" alt="profile views" />
-</p>
 
 
