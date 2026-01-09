@@ -37,20 +37,6 @@ focusing on clarity, performance, and real-world signal processing.
 
 
 
-
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YYDongRo&theme=github-light&hide_border=true" />
-</p>
-
-
-
-
-
-
-
 ## 📫 Contact
 
 - GitHub → **https://github.com/YYDongRo**
