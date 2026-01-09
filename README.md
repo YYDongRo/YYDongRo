@@ -21,7 +21,7 @@ focusing on clarity, performance, and real-world signal processing.
 
 <img
   align="right"
-  src="projectAssets/image_01.jpg"
+  src="projectAssets/image_01.png"
   width="260"
   alt="Hatsune Miku peeking from the side"
 />
