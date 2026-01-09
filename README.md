@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=000000" />
 </p>
 
-## Fun facts
+## 🩵 Fun facts
 
 <img
   align="right"
