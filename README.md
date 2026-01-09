@@ -52,7 +52,3 @@ focusing on clarity, performance, and real-world signal processing.
 </p>
 
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9DFBF,50:76D7C4,100:5DADE2&height=120&section=footer"/>
-</p>
