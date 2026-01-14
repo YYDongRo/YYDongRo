@@ -46,15 +46,14 @@
 - 𝓖𝓲𝓽𝓗𝓾𝓫 → **https://github.com/YYDongRo**
 - 𝓔𝓶𝓪𝓲𝓵 → **roydong5@gmail.com**
 
-<br clear="right"/>
-<div style="height: 10px;"></div>
+<br clear="right"/><div style="height:10px;"></div>
+<table><tbody><tr>
+<td align="left" valign="bottom"><img src="https://komarev.com/ghpvc/?username=YYDongRo&style=flat-square&color=5DADE2" alt="profile views"/></td>
+<td align="right" valign="bottom"><img src="projectAssets/image_02.png" height="32" alt="footer image"/></td>
+</tr></tbody></table>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=YYDongRo&style=flat-square&color=5DADE2"
-    alt="profile views"
-  />
-</p>
+
+
 
 
 
