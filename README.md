@@ -13,10 +13,21 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=000000" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=oracle&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
+
+### Frontend frameworks
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000&border=1" />
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+
+### Backend & Runtime
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=FFFFFF" />
+
 </p>
 
 ## 🩵 Fun facts
